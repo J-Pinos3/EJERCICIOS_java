@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hola Mundo/src/com/example/HolaMundo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hola Mundo/src/poo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Protecto_sist_ventas/Sistema_de_Ventas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ReproductorMusical" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/correccionPrueba" vcs="Git" />
   </component>
 </project>
